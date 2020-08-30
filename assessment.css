@@ -1,0 +1,27 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: radial-gradient(#81b917, #a9d33f);
+  /* テキストのカラー */
+  color: #ffffff;
+  width: 430px;
+  margin-right: auto;
+  margin-left: auto;
+}
+input{
+  height: 20px;
+  width: 215px;
+  padding: 2px;
+}
+button{
+  margin-top: 30px;
+  margin-bottom: 5px;
+  padding: 2px 83px;
+  background-color: #ffffff;
+  border-style: dotted;
+}
+h1{
+  font-size: xx-large;
+}
+img{
+  height: 210px;
+}
